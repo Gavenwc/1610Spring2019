@@ -8,6 +8,7 @@
         <e p="Bird.cs" t="Include" />
         <e p="KingEvent.cs" t="Include" />
         <e p="Mammal.cs" t="Include" />
+        <e p="Radishans.cs" t="Include" />
       </e>
       <e p="First Game.sln" t="IncludeFlat" />
       <e p="Library" t="ExcludeRecursive" />
