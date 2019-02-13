@@ -6,6 +6,8 @@
       <e p="Assets" t="Include">
         <e p="Animal.cs" t="Include" />
         <e p="Bird.cs" t="Include" />
+        <e p="ColorData.cs" t="Include" />
+        <e p="FloatData.cs" t="Include" />
         <e p="KingEvent.cs" t="Include" />
         <e p="Mammal.cs" t="Include" />
         <e p="Radishans.cs" t="Include" />

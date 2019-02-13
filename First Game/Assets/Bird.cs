@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Bird : Animal
 {
-    public Color FeatherColor;
+    public ColorData Blue;
     
     // Start is called before the first frame update
     void Start()
