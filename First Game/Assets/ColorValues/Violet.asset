@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c9d7613701b048d9a1aa1748fb13767, type: 3}
   m_Name: Violet
   m_EditorClassIdentifier: 
-  Value: {r: 0, g: 0, b: 0, a: 0}
+  Value: {r: 0.5248179, g: 0.019357419, b: 0.8207547, a: 0}

@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c9d7613701b048d9a1aa1748fb13767, type: 3}
-  m_Name: New Color Data
+  m_Name: Yellow
   m_EditorClassIdentifier: 
-  Value: {r: 0, g: 0, b: 0, a: 0}
+  Value: {r: 0.8962264, g: 0.8791163, b: 0.2325116, a: 0}
