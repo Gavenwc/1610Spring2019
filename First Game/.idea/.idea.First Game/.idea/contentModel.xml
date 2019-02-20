@@ -10,6 +10,7 @@
         <e p="FloatData.cs" t="Include" />
         <e p="KingEvent.cs" t="Include" />
         <e p="Mammal.cs" t="Include" />
+        <e p="Object.cs" t="Include" />
         <e p="Radishans.cs" t="Include" />
         <e p="Reptile.cs" t="Include" />
       </e>
