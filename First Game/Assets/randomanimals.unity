@@ -144,8 +144,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  Health: 0
-  Speed: 0
+  Health: {fileID: 0}
+  Speed: {fileID: 0}
   CanMove: 0
   SkinColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &95173252
@@ -223,8 +223,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  Health: 0
-  Speed: 0
+  Health: {fileID: 0}
+  Speed: {fileID: 0}
   CanMove: 0
   SkinColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &248233817
@@ -258,8 +258,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  Health: 0
-  Speed: 0
+  Health: {fileID: 11400000, guid: b5a0037c56b15417e9d2ac89e16fd55f, type: 2}
+  Speed: {fileID: 11400000, guid: 6db20a061eeca4b119faaf5d3bf179bd, type: 2}
   CanMove: 0
   SkinColor: {r: 0, g: 0, b: 0, a: 1}
   FurColor: {r: 0, g: 0, b: 0, a: 1}
@@ -375,8 +375,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: radish
-  Health: 0
-  Speed: 0
+  Health: {fileID: 11400000, guid: b5a0037c56b15417e9d2ac89e16fd55f, type: 2}
+  Speed: {fileID: 11400000, guid: 6db20a061eeca4b119faaf5d3bf179bd, type: 2}
   CanMove: 0
   SkinColor: {r: 0, g: 0, b: 0, a: 0}
   StemColor: {r: 0, g: 0, b: 0, a: 0}
@@ -436,7 +436,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 434610100}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.53, y: 1.94, z: 0}
+  m_LocalPosition: {x: 1.57, y: 1.94, z: 0}
   m_LocalScale: {x: 0.26769722, y: 0.26769722, z: 0.26769722}
   m_Children: []
   m_Father: {fileID: 0}
@@ -473,11 +473,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  Health: 0
-  Speed: 0
+  Health: {fileID: 0}
+  Speed: {fileID: 0}
   CanMove: 0
   SkinColor: {r: 1, g: 0, b: 0, a: 1}
-  FeatherColor: {r: 0, g: 0, b: 0, a: 0}
+  Blue: {fileID: 0}
 --- !u!212 &1367920205
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -550,6 +550,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1498112057}
   - component: {fileID: 1498112056}
+  - component: {fileID: 1498112058}
   m_Layer: 0
   m_Name: Powerupking
   m_TagString: Untagged
@@ -619,6 +620,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1498112058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1498112055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9a2f1ef3a269417db150ae696350fcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: 
+  ObjectColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &1621971220
 GameObject:
   m_ObjectHideFlags: 0

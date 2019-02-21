@@ -5,7 +5,6 @@ using UnityEngine.Events;
 
 public class Mammal : Animal
 {
-    public FloatData Health;
     public Color FurColor;
 
     public int FurCount = 10000;
