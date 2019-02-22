@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6cbf0b2-7b20-40e0-bfc2-e9eb3a9d19e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bird.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bird.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ColorData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ColorData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FloatData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FloatData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameValues/Powerup.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameValues/Powerup.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/KingEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/KingEvent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mammal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mammal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Object.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Object.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Radishans.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Radishans.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Reptile.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Reptile.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/randomanimals.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/randomanimals.unity" afterDir="false" />
-    </list>
+    <list default="true" id="f6cbf0b2-7b20-40e0-bfc2-e9eb3a9d19e8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +10,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerupBase.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
               <folding>
-                <marker date="1550685052000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550685052000" expanded="true" signature="141:342" ph="{...}" />
-                <marker date="1550685052000" expanded="true" signature="247:276" ph="{...}" />
-                <marker date="1550685052000" expanded="true" signature="318:336" ph="{...}" />
+                <marker date="1550685130000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550685130000" expanded="true" signature="141:360" ph="{...}" />
+                <marker date="1550685130000" expanded="true" signature="247:276" ph="{...}" />
+                <marker date="1550685130000" expanded="true" signature="318:354" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -79,14 +57,44 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/KingEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding>
+                <marker date="1548873159000" expanded="false" signature="6:104" ph="..." />
+                <marker date="1548873159000" expanded="true" signature="144:256" ph="{...}" />
+                <marker date="1548873159000" expanded="true" signature="218:254" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <marker date="1550818268000" expanded="false" signature="6:104" ph="..." />
+                <marker date="1550818268000" expanded="true" signature="144:247" ph="{...}" />
+                <marker date="1550818268000" expanded="true" signature="208:244" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KingEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerupBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mammal.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -106,6 +114,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Mammal.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerupBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs" />
       </list>
     </option>
   </component>
@@ -181,12 +190,12 @@
       <workItem from="1549908773177" duration="7000" />
       <workItem from="1550078800018" duration="1242000" />
       <workItem from="1550628108856" duration="302000" />
-      <workItem from="1550683173564" duration="1360000" />
+      <workItem from="1550683173564" duration="2856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9039000" />
+    <option name="totallyTimeSpent" value="10535000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,7 +210,7 @@
     <frame x="20" y="43" width="1400" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2790869" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2790869" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -229,6 +238,35 @@
       <window_info anchor="right" id="Errors In Solution" order="4" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2790869" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32928476" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32928476" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -328,6 +366,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <marker date="1550685130000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550685130000" expanded="true" signature="141:360" ph="{...}" />
+            <marker date="1550685130000" expanded="true" signature="247:276" ph="{...}" />
+            <marker date="1550685130000" expanded="true" signature="318:354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -343,15 +394,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerupBase.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KingEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="60">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
-            <marker date="1550685052000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550685052000" expanded="true" signature="141:342" ph="{...}" />
-            <marker date="1550685052000" expanded="true" signature="247:276" ph="{...}" />
-            <marker date="1550685052000" expanded="true" signature="318:336" ph="{...}" />
+            <marker date="1548873159000" expanded="false" signature="6:104" ph="..." />
+            <marker date="1548873159000" expanded="true" signature="144:256" ph="{...}" />
+            <marker date="1548873159000" expanded="true" signature="218:254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <marker date="1550818268000" expanded="false" signature="6:104" ph="..." />
+            <marker date="1550818268000" expanded="true" signature="144:247" ph="{...}" />
+            <marker date="1550818268000" expanded="true" signature="208:244" ph="{...}" />
           </folding>
         </state>
       </provider>

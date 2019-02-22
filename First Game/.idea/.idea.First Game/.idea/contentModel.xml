@@ -7,6 +7,7 @@
         <e p="Scripts" t="Include">
           <e p="Animal.cs" t="Include" />
           <e p="Bird.cs" t="Include" />
+          <e p="CollideEvent.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="KingEvent.cs" t="Include" />
