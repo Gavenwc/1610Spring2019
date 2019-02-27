@@ -7,7 +7,7 @@ public class CollideEvent : MonoEvents
 {
     public UnityEvent Event;
 
-    private void OnCollison3D()
+    private void OncollisionEnter3D()
     {
         Event.Invoke();
     }

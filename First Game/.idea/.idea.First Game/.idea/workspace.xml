@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6cbf0b2-7b20-40e0-bfc2-e9eb3a9d19e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Button.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Button.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PowerUptest.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PowerUptest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/randomanimals.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/randomanimals.unity.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/KingEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="60">
               <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <marker date="1548873159000" expanded="false" signature="6:104" ph="..." />
@@ -78,17 +83,17 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
               <folding>
-                <marker date="1550818268000" expanded="false" signature="6:104" ph="..." />
-                <marker date="1550818268000" expanded="true" signature="144:247" ph="{...}" />
-                <marker date="1550818268000" expanded="true" signature="208:244" ph="{...}" />
+                <marker date="1551232145000" expanded="false" signature="6:104" ph="..." />
+                <marker date="1551232145000" expanded="true" signature="144:253" ph="{...}" />
+                <marker date="1551232145000" expanded="true" signature="214:250" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
@@ -139,8 +144,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Mammal.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerupBase.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Conditionals.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs" />
       </list>
     </option>
   </component>
@@ -207,12 +212,12 @@
       <workItem from="1550078800018" duration="1242000" />
       <workItem from="1550628108856" duration="302000" />
       <workItem from="1550683173564" duration="3427000" />
-      <workItem from="1551115914506" duration="1389000" />
+      <workItem from="1551115914506" duration="1877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12495000" />
+    <option name="totallyTimeSpent" value="12983000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,30 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KingEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <marker date="1548873159000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1548873159000" expanded="true" signature="144:256" ph="{...}" />
-            <marker date="1548873159000" expanded="true" signature="218:254" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <marker date="1550818268000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1550818268000" expanded="true" signature="144:247" ph="{...}" />
-            <marker date="1550818268000" expanded="true" signature="208:244" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -391,6 +372,30 @@
             <marker date="1551117362000" expanded="true" signature="493:542" ph="{...}" />
             <marker date="1551117362000" expanded="true" signature="576:635" ph="{...}" />
             <marker date="1551117362000" expanded="true" signature="648:699" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <marker date="1551232145000" expanded="false" signature="6:104" ph="..." />
+            <marker date="1551232145000" expanded="true" signature="144:253" ph="{...}" />
+            <marker date="1551232145000" expanded="true" signature="214:250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KingEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <marker date="1548873159000" expanded="false" signature="6:104" ph="..." />
+            <marker date="1548873159000" expanded="true" signature="144:256" ph="{...}" />
+            <marker date="1548873159000" expanded="true" signature="218:254" ph="{...}" />
           </folding>
         </state>
       </provider>
