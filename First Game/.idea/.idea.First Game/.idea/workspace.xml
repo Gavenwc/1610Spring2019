@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6cbf0b2-7b20-40e0-bfc2-e9eb3a9d19e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveSingleJump.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveSingleJump.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Jumps.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Jumps.unity.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,21 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-              <folding>
-                <marker date="1550685130000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550685130000" expanded="true" signature="141:360" ph="{...}" />
-                <marker date="1550685130000" expanded="true" signature="247:276" ph="{...}" />
-                <marker date="1550685130000" expanded="true" signature="318:354" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,9 +58,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <marker date="1551843483000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1551843483000" expanded="true" signature="129:322" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="45">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <marker date="1551843933000" expanded="false" signature="6:78" ph="..." />
@@ -92,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <marker date="1551844489000" expanded="false" signature="6:104" ph="..." />
                 <marker date="1551844489000" expanded="true" signature="148:635" ph="{...}" />
@@ -109,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveSingleJump.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -125,13 +119,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveBase.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state>
               <folding>
-                <marker date="1551843483000" expanded="true" signature="6:78" ph="..." />
-                <marker date="1551843483000" expanded="true" signature="129:322" ph="{...}" />
+                <marker date="1550078987000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550078987000" expanded="true" signature="139:166" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -140,7 +133,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="60">
               <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
               <folding>
                 <marker date="1551232145000" expanded="false" signature="6:104" ph="..." />
@@ -154,7 +147,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="300">
               <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <marker date="1551117362000" expanded="false" signature="6:78" ph="..." />
@@ -180,6 +173,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KingEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs" root0="FORCE_HIGHLIGHTING" />
@@ -283,11 +277,12 @@
       <workItem from="1551115914506" duration="6361000" />
       <workItem from="1551842798588" duration="35000" />
       <workItem from="1551842975602" duration="2027000" />
+      <workItem from="1551893438565" duration="821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19529000" />
+    <option name="totallyTimeSpent" value="20350000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,10 +397,9 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainCharacter.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="210">
           <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding>
-            <marker date="1550685130000" expanded="false" signature="6:78" ph="..." />
             <marker date="1550685130000" expanded="true" signature="141:360" ph="{...}" />
             <marker date="1550685130000" expanded="true" signature="247:276" ph="{...}" />
             <marker date="1550685130000" expanded="true" signature="318:354" ph="{...}" />
@@ -453,7 +447,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CollideEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="60">
           <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding>
             <marker date="1551232145000" expanded="false" signature="6:104" ph="..." />
@@ -465,7 +459,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="300">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <marker date="1551117362000" expanded="false" signature="6:78" ph="..." />
@@ -482,42 +476,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveBase.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state>
           <folding>
-            <marker date="1551843483000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1551843483000" expanded="true" signature="129:322" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <marker date="1551843933000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1551843933000" expanded="true" signature="134:580" ph="{...}" />
-            <marker date="1551843933000" expanded="true" signature="199:578" ph="{...}" />
-            <marker date="1551843933000" expanded="true" signature="281:378" ph="{...}" />
-            <marker date="1551843933000" expanded="true" signature="391:462" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <marker date="1551844489000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1551844489000" expanded="true" signature="148:635" ph="{...}" />
-            <marker date="1551844489000" expanded="true" signature="335:405" ph="{...}" />
-            <marker date="1551844489000" expanded="true" signature="424:633" ph="{...}" />
-            <marker date="1551844489000" expanded="true" signature="465:518" ph="{...}" />
-            <marker date="1551844489000" expanded="true" signature="531:585" ph="{...}" />
+            <marker date="1550078987000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550078987000" expanded="true" signature="139:166" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -531,6 +495,46 @@
             <marker date="1551845715000" expanded="true" signature="136:491" ph="{...}" />
             <marker date="1551845715000" expanded="true" signature="200:489" ph="{...}" />
             <marker date="1551845715000" expanded="true" signature="268:324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1551843933000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551843933000" expanded="true" signature="134:580" ph="{...}" />
+            <marker date="1551843933000" expanded="true" signature="199:578" ph="{...}" />
+            <marker date="1551843933000" expanded="true" signature="281:378" ph="{...}" />
+            <marker date="1551843933000" expanded="true" signature="391:462" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <marker date="1551843483000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551843483000" expanded="true" signature="129:322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <marker date="1551844489000" expanded="false" signature="6:104" ph="..." />
+            <marker date="1551844489000" expanded="true" signature="148:635" ph="{...}" />
+            <marker date="1551844489000" expanded="true" signature="335:405" ph="{...}" />
+            <marker date="1551844489000" expanded="true" signature="424:633" ph="{...}" />
+            <marker date="1551844489000" expanded="true" signature="465:518" ph="{...}" />
+            <marker date="1551844489000" expanded="true" signature="531:585" ph="{...}" />
           </folding>
         </state>
       </provider>
