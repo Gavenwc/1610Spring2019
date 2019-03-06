@@ -3,35 +3,31 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-[CreateAssetMenu]
 public class MoveCharacter : MonoBehaviour
 {
-    public UnityEvent OnGrounded, Offgrounded;
-
+    public UnityEvent OnGrounded, OffGrounded;
 
     public MoveBase CharacterMover;
-    private CharacterController _controller;
+    
+    private CharacterController controller;
     private Vector3 position;
     
     void Start()
     {
-        _controller = GetComponent<CharacterController>();
+        controller = GetComponent<CharacterController>();
     }
 
     void Update()
     {
-        if (_controller.isGrounded)
+        if (controller.isGrounded)
         {
             OnGrounded.Invoke();
         }
         else
         {
-            Offgrounded.Invoke();
+            OffGrounded.Invoke();
         }
 
-        CharacterMover.Move(_controller);
-      
-
-        
+        CharacterMover.Move(controller);
     }
 }

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
-
 public class MoveWithAxis : MoveBase
 {
 
@@ -18,7 +17,6 @@ public class MoveWithAxis : MoveBase
             position.y = Gravity * Time.deltaTime;
         }
         position.x = Input.GetAxis("Horizontal") * Speed * Time.deltaTime;
-        
         controller.Move(position);
     }
 }
