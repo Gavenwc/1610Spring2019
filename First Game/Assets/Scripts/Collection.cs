@@ -11,4 +11,12 @@ public class Collection : ScriptableObject
     {
         CollectionList.Add(obj);
     }
+
+    public void CollectionInfo()
+    {
+        foreach (var obj in CollectionList)
+        {
+            Debug.Log(obj);
+        }
+    }
 }
