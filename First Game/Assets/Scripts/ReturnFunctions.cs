@@ -8,9 +8,12 @@ public class ReturnFunctions : MonoBehaviour
 
     private int Add()
     {
-        C = A + B;
-            
-        return C;
+        return A + B;
+                }
+
+    private int Subtract()
+    {
+        return A - B;
     }
     
     void Start()
