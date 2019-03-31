@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Experimental.UIElements.StyleEnums;
 
 public class ReturnFunctions : MonoBehaviour
 {
@@ -14,6 +15,13 @@ public class ReturnFunctions : MonoBehaviour
     private int Subtract()
     {
         return A - B;
+    }
+
+    public Vector3 Move()
+
+    {
+        position.y = Input.GetAxis("Horizontal");
+        Controller.Move
     }
     
     void Start()
