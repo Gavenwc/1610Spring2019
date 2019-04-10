@@ -6,6 +6,8 @@ using UnityEngine.Experimental.UIElements.StyleEnums;
 public class ReturnFunctions : MonoBehaviour
 {
     public int A, B, C;
+    public Vector3 position;
+    public CharacterController Controller;
 
     private int Add()
     {
@@ -21,7 +23,8 @@ public class ReturnFunctions : MonoBehaviour
 
     {
         position.y = Input.GetAxis("Horizontal");
-        Controller.Move
+        Controller.Move(position);
+        return position;
     }
     
     void Start()
