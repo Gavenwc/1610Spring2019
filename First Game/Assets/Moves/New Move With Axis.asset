@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4c14b63eeacd42d1bcebc4151eb6b22, type: 3}
   m_Name: New Move With Axis
   m_EditorClassIdentifier: 
-  Speed: 30
+  Speed: 10
   JumpForce: 1.5
-  Gravity: -3
+  Gravity: -9.7

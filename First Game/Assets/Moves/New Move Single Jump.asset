@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abe6de4c8763e4ccabb1e11103ec4a5c, type: 3}
   m_Name: New Move Single Jump
   m_EditorClassIdentifier: 
-  Speed: 30
-  JumpForce: 1.5
-  Gravity: -3
+  Speed: 10
+  JumpForce: 0.7
+  Gravity: -5

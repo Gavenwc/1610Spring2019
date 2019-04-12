@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6cbf0b2-7b20-40e0-bfc2-e9eb3a9d19e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.First Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Conditionals.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Conditionals.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,12 +78,12 @@
             <state relative-caret-position="450">
               <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
-                <marker date="1555109069000" expanded="false" signature="6:104" ph="..." />
-                <marker date="1555109069000" expanded="true" signature="148:635" ph="{...}" />
-                <marker date="1555109069000" expanded="true" signature="335:405" ph="{...}" />
-                <marker date="1555109069000" expanded="true" signature="424:633" ph="{...}" />
-                <marker date="1555109069000" expanded="true" signature="465:518" ph="{...}" />
-                <marker date="1555109069000" expanded="true" signature="531:585" ph="{...}" />
+                <marker date="1555109280000" expanded="false" signature="6:104" ph="..." />
+                <marker date="1555109280000" expanded="true" signature="148:635" ph="{...}" />
+                <marker date="1555109280000" expanded="true" signature="335:405" ph="{...}" />
+                <marker date="1555109280000" expanded="true" signature="424:633" ph="{...}" />
+                <marker date="1555109280000" expanded="true" signature="465:518" ph="{...}" />
+                <marker date="1555109280000" expanded="true" signature="531:585" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -306,12 +306,12 @@
       <workItem from="1553912311861" duration="125000" />
       <workItem from="1554005815352" duration="513000" />
       <workItem from="1554913274851" duration="2403000" />
-      <workItem from="1555106812169" duration="1725000" />
+      <workItem from="1555106812169" duration="2253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29591000" />
+    <option name="totallyTimeSpent" value="30119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,12 +598,12 @@
         <state relative-caret-position="450">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <marker date="1555109069000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1555109069000" expanded="true" signature="148:635" ph="{...}" />
-            <marker date="1555109069000" expanded="true" signature="335:405" ph="{...}" />
-            <marker date="1555109069000" expanded="true" signature="424:633" ph="{...}" />
-            <marker date="1555109069000" expanded="true" signature="465:518" ph="{...}" />
-            <marker date="1555109069000" expanded="true" signature="531:585" ph="{...}" />
+            <marker date="1555109280000" expanded="false" signature="6:104" ph="..." />
+            <marker date="1555109280000" expanded="true" signature="148:635" ph="{...}" />
+            <marker date="1555109280000" expanded="true" signature="335:405" ph="{...}" />
+            <marker date="1555109280000" expanded="true" signature="424:633" ph="{...}" />
+            <marker date="1555109280000" expanded="true" signature="465:518" ph="{...}" />
+            <marker date="1555109280000" expanded="true" signature="531:585" ph="{...}" />
           </folding>
         </state>
       </provider>
