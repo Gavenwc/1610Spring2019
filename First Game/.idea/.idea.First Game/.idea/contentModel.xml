@@ -8,6 +8,7 @@
           <e p="Ammo.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="Bird.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
           <e p="Collection.cs" t="Include" />
           <e p="CollideEvent.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
