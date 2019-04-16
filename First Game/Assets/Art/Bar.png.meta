@@ -1,8 +1,8 @@
 fileFormatVersion: 2
-guid: a0b3e1f0b9bff4d409dd31cc9d5d0156
+guid: 6296acbf5a88648cf857f8edb0c94c92
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Background1_0
+    21300000: Bar_0
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -44,10 +44,10 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 9
-  spritePivot: {x: 0.61738515, y: 0.65381503}
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 632, y: 1104, z: 135, w: 520}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -107,13 +107,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background1_0
+      name: Bar_0
       rect:
         serializedVersion: 2
-        x: 628
-        y: 1120
-        width: 1321
-        height: 410
+        x: 479
+        y: 679
+        width: 1121
+        height: 521
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,7 +121,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa73a61e98e114e48bf3cb507c03c5a5
+      spriteID: d0c9ebe266c76499789bf698d3c7f197
       vertices: []
       indices: 
       edges: []
@@ -129,7 +129,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7bf08e0fb8c0e4297870c7b231ea420d
+    spriteID: ee334207cdd9f42ec8a418df3181216f
     vertices: []
     indices: 
     edges: []

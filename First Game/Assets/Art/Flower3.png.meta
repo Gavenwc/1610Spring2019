@@ -1,8 +1,8 @@
 fileFormatVersion: 2
-guid: a0b3e1f0b9bff4d409dd31cc9d5d0156
+guid: 5cfa69ece7837471485f98b6dde792a5
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Background1_0
+    21300000: Flower3_0
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -44,10 +44,10 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 9
-  spritePivot: {x: 0.61738515, y: 0.65381503}
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 632, y: 1104, z: 135, w: 520}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -107,13 +107,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background1_0
+      name: Flower3_0
       rect:
         serializedVersion: 2
-        x: 628
-        y: 1120
-        width: 1321
-        height: 410
+        x: 664
+        y: 712
+        width: 265
+        height: 304
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,7 +121,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa73a61e98e114e48bf3cb507c03c5a5
+      spriteID: 376eb26e0b80b412eb8b716cfe05359e
       vertices: []
       indices: 
       edges: []
@@ -129,7 +129,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7bf08e0fb8c0e4297870c7b231ea420d
+    spriteID: dfc4cd9da0f804267aa55125856af398
     vertices: []
     indices: 
     edges: []
