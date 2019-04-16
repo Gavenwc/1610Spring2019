@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class MonoEvents : MonoBehaviour
 {
-    public UnityEvent StartEvent, EnableEvent, TriggerEnterEvent, UpdateEvent;
+    public UnityEvent StartEvent, EnableEvent, TriggerEnterEvent, UpdateEvent, OnMouseDownEvent;
     
     void Start()
     {
@@ -25,5 +25,10 @@ public class MonoEvents : MonoBehaviour
     void Update()
     {
         UpdateEvent.Invoke();
+    }
+
+    private void OnMouseDown()
+    {
+       OnMouseDownEvent.Invoke();
     }
 }
