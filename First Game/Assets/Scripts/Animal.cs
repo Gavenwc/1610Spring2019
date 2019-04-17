@@ -25,7 +25,7 @@ public class Animal : MonoBehaviour
        Event.Invoke(); 
     }
 
-    void Update()
+    private void Update()
     {
         
     }

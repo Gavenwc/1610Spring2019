@@ -29,7 +29,7 @@ public class ReturnFunctions : MonoBehaviour
     
     void Start()
     {
-        
+        C = Add();
     }
 
     void Update()
