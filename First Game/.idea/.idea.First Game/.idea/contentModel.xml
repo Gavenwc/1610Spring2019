@@ -17,6 +17,7 @@
           <e p="Enemy.cs" t="Include" />
           <e p="EnemyAI.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="Greetings.cs" t="Include" />
           <e p="KingEvent.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
